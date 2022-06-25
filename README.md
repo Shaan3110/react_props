@@ -1,10 +1,10 @@
-# Todo List Project 
+# Use React Props like a Pro !
 
 ## Introduction
 
 Hello amazing developer 👋,
 
-Here's the project that I referred on my [blog](https://dev.to/suchintan/javascript-to-typescript-complete-guide-with-react-1nd8)
+Here's the project that I referred on my [blog](https://dev.to/suchintan/use-react-props-like-a-pro--1gll)
 
 This is a small React project which was made to help you share some amazing pro tips for using react props.
 
